@@ -1,0 +1,1 @@
+The code in [main.rs](/src/main.rs) is copied from [rust-openssl/mk_certs.rs](https://github.com/sfackler/rust-openssl/blob/433f0ecb6e3268d0ca5c02ed508c050908143b34/openssl/examples/mk_certs.rs), and is provided under an Apache 2.0 [license](/APACHE-LICENSE). The rest of code is [unlicensed](LICENSE).
